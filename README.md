@@ -1,1 +1,1 @@
-[Clic here](https://julesfouchy.github.io/MyProjectsOverview/) to see the projects.
+[Click here](https://julesfouchy.github.io/MyProjectsOverview/) to see the projects.
